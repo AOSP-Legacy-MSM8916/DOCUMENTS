@@ -63,9 +63,10 @@ We added few non-AOSP features for a better user experience and we NOT going to 
 [*][URL=https://forum.xda-developers.com/member.php?u=8426240]iamsj7 (Shaik Jaleel) [/url]
 [*][url=https://forum.xda-developers.com/member.php?u=5566914]ishubhamsingh[/url]
 [*][url=https://forum.xda-developers.com/member.php?u=5786839]karthick111 (karthick Mostwanted)[/url]
-[*][url=https://forum.xda-developers.com/member.php?u=6429574]karthick km [/url]
+[*][url=https://forum.xda-developers.com/member.php?u=6429574]karthik km [/url]
 [*][url=https://forum.xda-developers.com/member.php?u=7908199]Maaz Muzzamil [/url]
 [*][url=https://forum.xda-developers.com/member.php?u=7714521]thehari08 (Vinesh Iyappan) [/url]
+[*][URL="https://forum.xda-developers.com/member.php?u=8062400"]mkfslsxbin[/URL]
 [*][SIZE="2"]And also Thanks to Open Contributors,
 [*]Thanks to all the testers who flashed initial builds and provided logs for all issues helping us to debug them! [/SIZE]
 [*][/SIZE] [/LIST]
