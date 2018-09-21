@@ -1,13 +1,13 @@
-Thread title: [ROM][9.0][DEVICE] TEAM LEGACY AOSP [r1][2018/08/16]
+Thread title: [ROM][PIE][DEVICE] AOSP 9.0.0 by TeamLegacy [2018/08/16]
 
 [CENTER]
 [img]https://image.ibb.co/dY6wJU/android_9_pie_logo.png[/img]
 
-[SIZE="5"][b][color=#1a73e8] TEAM LEGACY AOSP for DeviceName [codename][/color][/b][/SIZE]
+[SIZE="5"][b][color=#1a73e8] AOSP 9.0.0 for <DeviceName> by Team Legacy [codename][/color][/b][/SIZE]
 
 [SIZE="4"][b][color=#1a73e8]What is AOSP?[/color][/b][/SIZE]
-[SIZE="3"]AOSP is Android as Google publishes, without other modifications. More or less AOSP is the Nexus devices stock ROM without gapps.
-We added few non-AOSP features for a better user experience and we NOT going to add any other fancy features.
+[SIZE="3"]AOSP is Android as Google publishes, without other modifications & bloat. More or less AOSP is the Nexus devices' stock ROM, without gapps, so that you can enjoy unpolluted, divine Android on your device!
+We have added very few non-AOSP features & tweaks for a better user experience and we are NOT going to add any other fancy features. Such feature requests will not be entertained, you'll simply be wasting your time & energy.
 [/SIZE][/CENTER]
 
 
@@ -25,6 +25,8 @@ We added few non-AOSP features for a better user experience and we NOT going to 
 [*]Bluetooth
 [*]FM Radio
 [*]Lights
+[*]Sensors
+[*]Audio/video playback
 [*]Sound / vibration
 [*]Facelock
 [/LIST][/SIZE]
@@ -39,8 +41,7 @@ We added few non-AOSP features for a better user experience and we NOT going to 
 [SIZE="4"][b][color=#1a73e8] Downloads [/color][/b][/SIZE]
 
 [SIZE="3"][url="PASTE LINK HERE"][b][color=#1a73e8][u]GET YOUR PIE HERE[/u][/color][/b][/url][/SIZE]
-[SIZE="2"][url=https://builds.nezorfla.me/?dir=opengapps/pie/arm [b][color=#1a73e8][u]Unofficial ARM OpenGapps[/u][/color][/b][/url][/SIZE]
-[SIZE="2"][url=https://builds.nezorfla.me/?dir=opengapps/pie/arm64 [b][color=#1a73e8][u]Unofficial ARM64 OpenGapps[/u][/color][/b][/url][/SIZE]
+[SIZE="2"][url=https://opengapps.org/ [b][color=#1a73e8][u]Unofficial ARM/ARM64 OpenGapps[/u][/color][/b][/url][/SIZE][/color][/b][/url][/SIZE]
 
 [SIZE="4"][b][color=#1a73e8] CREDITS [/color][/b][/SIZE]
 
@@ -72,15 +73,15 @@ We added few non-AOSP features for a better user experience and we NOT going to 
 [*]Thanks to all the testers who flashed initial builds and provided logs for all issues helping us to debug them! [/SIZE]
 [*][/SIZE] [/LIST]
 
-[SIZE="4"][b][color=#1a73e8]Telegram channel[/color][/b][/SIZE]
+[SIZE="4"][b][color=#1a73e8]Telegram[/color][/b][/SIZE]
 
 [SIZE="3"][url="https://t.me/teamlegacyaosp"][b][color=#1a73e8][u] Join Our Official Group Chat[/u][/color][/b][/url][/SIZE]
 [SIZE="3"][url="https://t.me/legacyaosp"][b][color=#1a73e8][u] Join Our Official Channel[/u][/color][/b][/url][/SIZE]
 
 [LEFT][SIZE="3"][list]
 
-[*][b]Android OS version:[/b] 9.0.0_r3
-[*][b]Security patch level:[/b] August 2018
-[*][b]Build author:[/b] [url=https://forum.xda-developers.com/member.php?u=XDA_NUMERIC_ID]XDA_USERNAME[/url]
+[*][b]Android OS version:[/b] 9.0.0_r8
+[*][b]Security patch level:[/b] September 2018
+[*][b]Build author:[/b] [url=YOUR_XDA_ACCOUNT_LINK]XDA_USERNAME[/url]
 [*][b]Source code:[/b] [url=https://github.com/AOSP-LEGACY-MSM8916]https://github.com/AOSP-LEGACY-MSM8916[/url]
 [/list][/SIZE][/LEFT]
