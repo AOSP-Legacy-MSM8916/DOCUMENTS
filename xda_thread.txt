@@ -83,5 +83,6 @@ We have added very few non-AOSP features & tweaks for a better user experience a
 [*][b]Android OS version:[/b] 9.0.0_r8
 [*][b]Security patch level:[/b] September 2018
 [*][b]Build author:[/b] [url=YOUR_XDA_ACCOUNT_LINK]XDA_USERNAME[/url]
-[*][b]Source code:[/b] [url=https://github.com/AOSP-LEGACY-MSM8916]https://github.com/AOSP-LEGACY-MSM8916[/url]
+[*][b]ROM Source code:[/b] [url=https://github.com/AOSP-LEGACY-MSM8916]https://github.com/AOSP-LEGACY-MSM8916[/url]
+[*][b]DEVICE Source code:[/b] [url=<INSERT YOUR SOURCEURL HERE>]<INSERT YOUR SOURCE URL HERE>[/url]
 [/list][/SIZE][/LEFT]
