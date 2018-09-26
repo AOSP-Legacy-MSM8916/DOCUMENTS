@@ -46,7 +46,7 @@ We have added very few non-AOSP features & tweaks for a better user experience a
 [SIZE="4"][b][color=#1a73e8] CREDITS [/color][/b][/SIZE]
 
 [LIST]
-[*][SIZE="3"] [url=https://github.com/LineageOS]LineageOS[/url]
+[*][SIZE="3"] [url=https://github.com/LineageOS]LineageOS[/url][/SIZE]
 [*][url=https://github.com/PixelExperience-P]PixelExperience[/url]
 [*][url=https://forum.xda-developers.com/member.php?u=2233641]AdrianDC[/url]
 [*][url=https://forum.xda-developers.com/member.php?u=6519039]jhenrique09[/url]
